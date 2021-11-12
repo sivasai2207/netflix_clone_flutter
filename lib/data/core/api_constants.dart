@@ -1,5 +1,5 @@
-class ApiCinstants {
-  ApiCinstants._();
+class ApiConstants {
+  ApiConstants._();
 
   static const String BASE_URL = "https://api.themoviedb.org/3/";
   static const String API_KEY = "665a6b9ecb25a176d51b035d0108d08b";
